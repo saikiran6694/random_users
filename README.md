@@ -5,6 +5,9 @@
 
 Link: https://random-user-list-app.netlify.app
 
+<h2>Output UI </h2>
+<img src="https://i.ibb.co/NWTf6vz/Screenshot-2023-04-01-at-7-13-52-PM.png" alt="ui-design" />
+
 The Assignment Contains Additional Features:
 
 1. Made a decent looking and responsive UI.
@@ -12,3 +15,5 @@ The Assignment Contains Additional Features:
 3. Added unit tests using testing library
 4. Well Formated Code
 5. Git file
+
+
